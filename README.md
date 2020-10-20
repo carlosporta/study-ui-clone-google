@@ -8,7 +8,7 @@
 ## Project URL
 [http://167.99.151.223/](http://167.99.151.223/)
 
-## Gifs
+## Screenshot
 
 ### Desktop
 ![Desktop](screenshots/desktop.png)
